@@ -33,6 +33,7 @@ ehthumbs.db
 !SPEC.md
 !ROADMAP.md
 !ARCHITECTURE.md
+temp_auto_push.bat
 !BENCHMARKS.md
 !CONTRIBUTING.md
 !ATTRIBUTION.md
@@ -68,3 +69,5 @@ target/
 **/target/
 
 
+.gitignore
+branch_structure.json
